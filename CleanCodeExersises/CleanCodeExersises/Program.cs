@@ -54,10 +54,20 @@ namespace CleanCodeExersises
         /*
          * Solution to Be positive exersise
          */
-        public bool IsLoggedInClean(bool isNotLoggedIn)
+        public bool IsLoggedInClean(bool loggedIn)
         {
-            
+            if (loggedIn)
+            {
+                System.Console.WriteLine("Succesfully logged in!");
+                return true;
+            }
+            else
+            {
+                System.Console.WriteLine("Failed to log in!");
+                return false;
+            }
         }
+
         /*
          * Intermediate exercise
          * What is the question answering?
@@ -79,12 +89,14 @@ namespace CleanCodeExersises
          * Solution to ohm Intermediate exercise
          * An intermediate Variable says a lot more them a long expression
          */
-        public bool eligibleClean()
+        public bool eligibleClean(Employee employee)
         {
-            throw new NotImplementedException();
-            //Write your solution here
+            bool eligibleForPension = employee.Age > 55
+                && employee.YearsEmployed > 10
+                && employee.IsRetired == true;
+            return eligibleForPension;
         }
-        
+
         /*
          * Ternary exersise
          */
@@ -93,7 +105,8 @@ namespace CleanCodeExersises
             if (isPreordered == true)
             {
                 return 200.00;
-            } else
+            }
+            else
             {
                 return 350.00;
             }
@@ -102,16 +115,14 @@ namespace CleanCodeExersises
          * Solution to Ternary exersise
          * Use a oneline Ternary.
          */
-        public double GetPriceClean()
+        public double GetPriceClean(bool isPreordered)
         {
-            throw new NotImplementedException();
-            //Write your solution here
+            double gamePrice = isPreordered ? 200.00 : 350.00;
+            return gamePrice;
         }
         /*
          * Strong type exersise - not done
          */
-
     }
 }
-
 
