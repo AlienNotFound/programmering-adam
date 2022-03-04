@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iN/myD8BQI+Cw1NYHUOLg6lG8+Pf2htYY2bb+8YCJc3ET/t8LEeYOIEPBQR9ixVQ9Y64TsX5HMyOgrck0qxfRw==",
+  "success": true,
+  "projectFilePath": "E:\\repo\\programmering-adam\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
