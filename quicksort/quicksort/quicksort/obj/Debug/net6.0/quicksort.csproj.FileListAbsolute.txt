@@ -1,0 +1,15 @@
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\quicksort.exe
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\quicksort.deps.json
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\quicksort.runtimeconfig.json
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\quicksort.dll
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\ref\quicksort.dll
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\bin\Debug\net6.0\quicksort.pdb
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.csproj.AssemblyReference.cache
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.AssemblyInfoInputs.cache
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.AssemblyInfo.cs
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.csproj.CoreCompileInputs.cache
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.dll
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\ref\quicksort.dll
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.pdb
+E:\repo\programmering-adam\quicksort\quicksort\quicksort\obj\Debug\net6.0\quicksort.genruntimeconfig.cache

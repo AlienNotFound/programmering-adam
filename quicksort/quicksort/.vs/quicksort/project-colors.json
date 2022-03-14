@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13ddc7c7-1a7f-491d-b83a-84adf1d61f73": {
+      "ProjectGuid": "13ddc7c7-1a7f-491d-b83a-84adf1d61f73",
+      "DisplayName": "quicksort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
