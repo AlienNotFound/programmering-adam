@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJRhNI3eRcQzm6FZAQb/mutaEUuhYbsDeSQxd60kRFEk8ZYAS5jSXtzsmFs8UgZOklarCvOHeKtqNwJjTWCY+w==",
+  "success": true,
+  "projectFilePath": "E:\\repo\\programmering-adam\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
