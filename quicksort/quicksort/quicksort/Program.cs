@@ -34,6 +34,8 @@
             return (i + 1);
         }
 
+
+        /* Mit eget forsøg på en sorterings algoritme, ved at pille quicksort fra hinanden */
         static void SortArray(int[] intArr)
         {
             int mid = MidArray(intArr);
