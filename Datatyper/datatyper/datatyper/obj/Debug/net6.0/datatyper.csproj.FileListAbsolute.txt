@@ -1,0 +1,15 @@
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\datatyper.exe
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\datatyper.deps.json
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\datatyper.runtimeconfig.json
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\datatyper.dll
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\ref\datatyper.dll
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\bin\Debug\net6.0\datatyper.pdb
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.csproj.AssemblyReference.cache
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.AssemblyInfoInputs.cache
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.AssemblyInfo.cs
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.csproj.CoreCompileInputs.cache
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.dll
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\ref\datatyper.dll
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.pdb
+E:\repo\programmering-adam\Datatyper\datatyper\datatyper\obj\Debug\net6.0\datatyper.genruntimeconfig.cache
