@@ -1,0 +1,15 @@
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\objekt-opgave.exe
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\objekt-opgave.deps.json
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\objekt-opgave.runtimeconfig.json
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\objekt-opgave.dll
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\ref\objekt-opgave.dll
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\bin\Debug\net6.0\objekt-opgave.pdb
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.csproj.AssemblyReference.cache
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.AssemblyInfoInputs.cache
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.AssemblyInfo.cs
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.csproj.CoreCompileInputs.cache
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.dll
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\ref\objekt-opgave.dll
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.pdb
+E:\repo\programmering-adam\objekt-opgave\objekt-opgave\obj\Debug\net6.0\objekt-opgave.genruntimeconfig.cache

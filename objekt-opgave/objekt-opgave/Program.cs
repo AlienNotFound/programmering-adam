@@ -1,29 +1,47 @@
-﻿class BankAccount
+﻿using System;
+class BankAccount
 {
-    int balance;
-
+    static int balance;
     static void Main(string[] args)
     {
-        Console.WriteLine("Vælg en handling:");
-        Console.WriteLine(">");
-        string valg = Console.ReadLine();
-
-        switch (int.Parse(valg))
+        BankAccount account = new BankAccount();
+        bool restart = true;
+        while (restart)
         {
-            case 1:
-                Console.WriteLine(valg + " er valgt");
-                break;
+            Console.WriteLine("Vælg en handling:");
+            Console.WriteLine("1. Hæv penge");
+            Console.WriteLine("2. Indsæt penge");
+            Console.Write(">");
+            string valg = Console.ReadLine();
+
+            switch (int.Parse(valg))
+            {
+                case 1:
+                    Withdraw();
+                    break;
+                case 2:
+                    Deposit();
+                    break;
+            }
         }
     }
 
     static void Withdraw()
     {
-
+        Console.WriteLine("Indstast det ønskede beløb, der skal hæves fra kontoen:");
+        Console.Write(">");
+        int beloeb = int.Parse(Console.ReadLine());
+        Console.WriteLine("\nPengene blev hævet!\nNy saldo: " + (balance - beloeb + "\n"));
+        balance -= beloeb;
     }
 
     static void Deposit()
     {
-
+        Console.WriteLine("Indstast det ønskede beløb, der skal indsættes på kontoen:");
+        Console.Write(">");
+        int beloeb = int.Parse(Console.ReadLine());
+        Console.WriteLine("\nPengene blev overført!\nNy saldo: " + (balance + beloeb + "\n"));
+        balance += beloeb;
     }
 
     static void TotalBalance()
