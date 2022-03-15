@@ -11,3 +11,19 @@ c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finan
 C:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CopyComplete
 c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
 c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.exe
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.deps.json
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.json
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.dev.json
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.dll
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.pdb
+E:\repo\programmering-adam\Rap_Finands\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.AssemblyReference.cache
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfoInputs.cache
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfo.cs
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CoreCompileInputs.cache
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CopyComplete
+E:\repo\programmering-adam\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.genruntimeconfig.cache
