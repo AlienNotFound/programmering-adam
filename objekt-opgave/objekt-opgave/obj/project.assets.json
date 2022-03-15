@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repo\\programmering-adam\\objekt_opgave\\objekt_opgave\\objekt_opgave.csproj",
-      "projectName": "objekt_opgave",
-      "projectPath": "E:\\repo\\programmering-adam\\objekt_opgave\\objekt_opgave\\objekt_opgave.csproj",
+      "projectUniqueName": "E:\\repo\\programmering-adam\\objekt-opgave\\objekt-opgave\\objekt-opgave.csproj",
+      "projectName": "objekt-opgave",
+      "projectPath": "E:\\repo\\programmering-adam\\objekt-opgave\\objekt-opgave\\objekt-opgave.csproj",
       "packagesPath": "C:\\Users\\adamd\\.nuget\\packages\\",
-      "outputPath": "E:\\repo\\programmering-adam\\objekt_opgave\\objekt_opgave\\obj\\",
+      "outputPath": "E:\\repo\\programmering-adam\\objekt-opgave\\objekt-opgave\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adamd\\AppData\\Roaming\\NuGet\\NuGet.Config",
