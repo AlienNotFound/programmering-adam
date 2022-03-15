@@ -35,20 +35,43 @@
         }
 
 
-        /* Mit eget forsøg på en sorterings algoritme, ved at pille quicksort fra hinanden */
+        /* Mit eget forsøg på en sorterings algoritme */
         static void SortArray(int[] intArr)
         {
             int mid = MidArray(intArr);
+            int end = intArr.Length - 1;
+            int start = 0;
+            int indx = 1;
 
-            for (int i = 0; i < mid; i++)
+            Console.WriteLine("\n\nMiddle: " + intArr[mid]);
+
+            for (int i = 0; i < intArr.Length; i++)
             {
-                if (intArr[i] < intArr[mid + 1])
+                //if(intArr[start] > intArr[mid])
+                //{
+                //    Console.WriteLine("true");
+                //    var temp = intArr[start];
+                //    intArr[start] = intArr[mid];
+                //    intArr[mid] = temp;
+                //} else 
+
+                if (intArr[i] > intArr[mid])
                 {
-                    var temp = intArr[i];
-                    intArr[i] = intArr[mid - 1];
-                    intArr[mid - 1] = temp;
+                    (intArr[i], intArr[mid + 1]) = (intArr[mid + 1], intArr[i]);
+                    //if (intArr[i] < intArr[end])
+                    //{
+                    //    (intArr[i], intArr[end - 1]) = (intArr[end - 1], intArr[i]);
+                    //}
                 }
-            }
+                //else
+                //{
+                //    (intArr[i], intArr[mid - 1]) = (intArr[mid - 1], intArr[i]);
+                //}
+                //else if (intArr[i] > intArr[mid])
+                //{
+                //    (intArr[i], intArr[start]) = (intArr[start], intArr[i]);
+                //}
+            }            
         }
 
         static int MidArray(int[] intArr)
@@ -59,7 +82,7 @@
         }
         static void Main()
         {
-            int[] intArr = { 10, 80, 30, 90, 40, 50, 70 };
+            int[] intArr = { 2,6,5,7,1 };
 
             Console.WriteLine("\nOriginal array: ");
             for (int i = 0; i < intArr.Length; i++)
