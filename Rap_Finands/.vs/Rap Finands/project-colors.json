@@ -10,7 +10,12 @@
       "ProjectGuid": "f7f12077-c6e0-4fcf-96b2-377b0ee2ce55",
       "DisplayName": "Rap Finands",
       "ColorIndex": 1
+    },
+    "0a46c1cc-aa9a-4b97-a63f-c41962c0d62a": {
+      "ProjectGuid": "0a46c1cc-aa9a-4b97-a63f-c41962c0d62a",
+      "DisplayName": "Rap Finands",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

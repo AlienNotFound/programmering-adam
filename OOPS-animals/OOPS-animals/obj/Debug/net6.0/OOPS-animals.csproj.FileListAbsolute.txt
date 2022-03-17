@@ -1,0 +1,15 @@
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\bin\Debug\net6.0\OOPS-animals.exe
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\bin\Debug\net6.0\OOPS-animals.deps.json
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\bin\Debug\net6.0\OOPS-animals.runtimeconfig.json
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\bin\Debug\net6.0\OOPS-animals.dll
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\bin\Debug\net6.0\OOPS-animals.pdb
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.csproj.AssemblyReference.cache
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.AssemblyInfoInputs.cache
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.AssemblyInfo.cs
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.csproj.CoreCompileInputs.cache
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.dll
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\refint\OOPS-animals.dll
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.pdb
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\OOPS-animals.genruntimeconfig.cache
+E:\repo\programmering-adam\OOPS-animals\OOPS-animals\obj\Debug\net6.0\ref\OOPS-animals.dll
