@@ -6,8 +6,9 @@
         public string foodType;
         public string race;
         public decimal weight;
+        public string color;
 
-        public void Move()
+        public virtual void Move()
         {
             Console.WriteLine("The {0} moved, with it's {1} leg(s)!", race, numLegs);
         }

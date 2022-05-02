@@ -4,9 +4,14 @@
     {
         string name;
 
-        override public void MakeSound()
+        public override void MakeSound()
         {
             Console.WriteLine("mew");
+        }
+
+        public override void Move()
+        {
+            Console.WriteLine("The cat stalks prey.");
         }
     }
 }

@@ -2,7 +2,7 @@
 
 public class Feline : Animal
 {
-    virtual public void MakeSound()
+    public virtual void MakeSound()
     {
         Console.WriteLine("Cat noises");
     }

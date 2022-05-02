@@ -15,6 +15,34 @@ namespace OOPS_animals
 
         public void AnimalsInfo()
         {
+            Console.WriteLine("\t--//  Welcome to EverGreen Zoo  //--");
+            Console.WriteLine("\tWhere would you like to go?");
+            Console.WriteLine("\t1. Felines\t\t2. Canines");
+            Console.WriteLine();
+            Console.Write(">");
+            string choice = Console.ReadLine();
+
+            switch (int.Parse(choice))
+            {
+                case 1: Console.WriteLine("You're visiting the felines");
+                    break;
+                case 2: Console.WriteLine("You're visiting the canines");
+                    break;
+            }
+            
+            /*Animal[] animals = new Animal[3];
+
+            animals[0] = new Cat();
+            animals[1] = new Dog();
+            animals[2] = new Lion();
+
+            foreach (Animal ani in animals)
+            {
+                ani.Move();
+            }
+            
+            Console.WriteLine("\n----------\n\n");
+            
             myCat = new Cat();
             myCat.numLegs = 4;
             myCat.MakeSound();
@@ -38,7 +66,7 @@ namespace OOPS_animals
             c = new Animal();
             c.race = "rat";
             c.numLegs = 30000;
-            c.Move();
+            c.Move();*/
         }
 
         public static void Main(string[] args)
