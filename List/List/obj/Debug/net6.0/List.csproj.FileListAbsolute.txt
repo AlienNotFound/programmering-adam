@@ -1,0 +1,12 @@
+E:\repo\TechCollection\List\List\bin\Debug\net6.0\List.deps.json
+E:\repo\TechCollection\List\List\bin\Debug\net6.0\List.dll
+E:\repo\TechCollection\List\List\bin\Debug\net6.0\List.pdb
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.dll
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\refint\List.dll
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\List.pdb
+E:\repo\TechCollection\List\List\obj\Debug\net6.0\ref\List.dll
